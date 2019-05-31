@@ -1,0 +1,9 @@
+D:\C#\Game Flappy Bird\Version 1\bin\Debug\Version 1.exe.config
+D:\C#\Game Flappy Bird\Version 1\bin\Debug\Version 1.exe
+D:\C#\Game Flappy Bird\Version 1\bin\Debug\Version 1.pdb
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version 1.csprojResolveAssemblyReference.cache
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version_1.Form1.resources
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version 1.csproj.GenerateResource.Cache
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version 1.exe
+D:\C#\Game Flappy Bird\Version 1\obj\Debug\Version 1.pdb
